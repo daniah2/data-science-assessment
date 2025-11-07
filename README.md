@@ -22,7 +22,8 @@ The repository contains two main files:
 | `answer.sql` | Contains the final SQL query that calculates the portfolio allocation percentage for each investor by sector. |
 
 ---
-
+#### Note: في الاستعلام استخدمت CAST لتحويل ناتج النسبة إلى نوع بيانات Decimal لضمان تنسيق الأرقام بشكل أدق، ولكن يمكن الاستغناء عن CAST وسيتم حساب النتيجة بنفس القيمة التي ظهرت في المخرجات دون تأثير على صحة الناتج. 
+---
 ## ▶️ How to Run
 
 Execute the following command in the terminal:
