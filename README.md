@@ -38,4 +38,5 @@ If the query is correct, the terminal will show:
 
 ## 📸 Output Proof
 A screenshot of the successful output (Test passed ✅) is included in this repository as proof of correct execution.
+![Test Output Screenshot](../data-science-assessment/img.png)
 
